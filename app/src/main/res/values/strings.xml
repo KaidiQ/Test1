@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">student</string>
+    <string-array name="xueyuan">
+        <item>信息技术学院</item>
+        <item>外国语学院</item>
+        <item>机电学院</item>
+        <item>商学院</item>
+        <item>艺术设计学院</item>
+        <item>珠宝学院</item>
+        <item>新闻传播学院</item>
+    </string-array>
+    <string-array name="zhengzhi">
+        <item>党员</item>
+        <item>团员</item>
+        <item>群众</item>
+        <item>其他</item>
+    </string-array>
+</resources>
